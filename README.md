@@ -1,5 +1,8 @@
 three.js
 ========
+#### <span style="color:red">Snowpack doesn't handle exports in package.json properly (doesn't handle wildcards recursively). This is a temporary fix. More info: [withastro/snowpack#3867](https://github.com/withastro/snowpack/issues/)</span> ####
+
+
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
